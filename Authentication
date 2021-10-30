@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T12:33:24.972Z" agent="5.0 (Windows)" etag="Cpnbl5jUhQwd1KGMvzPr" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T12:41:10.615Z" agent="5.0 (Windows)" etag="vZNJnwBG4cCgMRgw_EAG" version="15.6.2" type="github">
   <diagram id="Ka5eMtDA9C54eva2fkie" name="Page-1">
     <mxGraphModel dx="1100" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="48kHgXeEGDg_Y0T79_uO-14" value="Tell user to Login" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-16" value="in each Page That need Authorization check ig global state is true make Authorize otherwiser kick the user in login Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-16" value="in each Page That need Authorization check if global state is true make the user Authorize otherwise kick the user in login Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="540" width="375" height="90" as="geometry" />
         </mxCell>
         <mxCell id="48kHgXeEGDg_Y0T79_uO-18" value="&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;save in Global State&lt;/div&gt;&lt;div&gt;Authenticated is True&lt;br&gt;&lt;/div&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
