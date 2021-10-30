@@ -1,62 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T12:41:10.615Z" agent="5.0 (Windows)" etag="vZNJnwBG4cCgMRgw_EAG" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T12:58:32.827Z" agent="5.0 (Windows)" etag="sBnTnuPcgrrgOQvKLmvc" version="15.6.2" type="github">
   <diagram id="Ka5eMtDA9C54eva2fkie" name="Page-1">
-    <mxGraphModel dx="1100" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-1" target="48kHgXeEGDg_Y0T79_uO-2">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-1" target="48kHgXeEGDg_Y0T79_uO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-1" value="Send Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-1" value="Send Login" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-2" target="48kHgXeEGDg_Y0T79_uO-4">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-2" target="48kHgXeEGDg_Y0T79_uO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-2" value="Get back Token From Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-2" value="Get back Token From Server" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-4" value="&lt;div&gt;Save Token in Local Storage or Cookie&lt;/div&gt;&lt;div&gt;(Automatic by Backend or manual by Front End)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-4" value="&lt;div&gt;Save Token in Local Storage or Cookie&lt;/div&gt;&lt;div&gt;(Automatic by Backend or manual by Front End)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-6" target="48kHgXeEGDg_Y0T79_uO-7">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-6" target="48kHgXeEGDg_Y0T79_uO-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-6" value="Application Mounting " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-6" value="Application Mounting " style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="400" y="10" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-11" value="if Token is there" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-7" target="48kHgXeEGDg_Y0T79_uO-10">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-11" value="if Token is there" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-7" target="48kHgXeEGDg_Y0T79_uO-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-7" value="&lt;div&gt;check Token&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-21" value="if No Token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-7" target="48kHgXeEGDg_Y0T79_uO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-7" value="&lt;div&gt;check Token&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="405" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-13" value="if ok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-10" target="48kHgXeEGDg_Y0T79_uO-12">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-13" value="if ok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-10" target="48kHgXeEGDg_Y0T79_uO-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-15" value="if not ok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-10" target="48kHgXeEGDg_Y0T79_uO-14">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-15" value="if not ok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-10" target="48kHgXeEGDg_Y0T79_uO-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-10" value="send a request with Token to Server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-10" value="send a request with Token to Server" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="405" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-18" target="48kHgXeEGDg_Y0T79_uO-16">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-18" target="48kHgXeEGDg_Y0T79_uO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-12" target="48kHgXeEGDg_Y0T79_uO-18">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="48kHgXeEGDg_Y0T79_uO-12" target="48kHgXeEGDg_Y0T79_uO-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-12" value="&lt;div&gt;make Login ok&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-12" value="&lt;div&gt;make Login ok&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-14" value="Tell user to Login" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-14" value="Tell user to Login" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="605" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-16" value="in each Page That need Authorization check if global state is true make the user Authorize otherwise kick the user in login Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-16" value="in each Page That need Authorization check if global state is true make the user Authorize otherwise kick the user in login Page" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="405" y="540" width="375" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="48kHgXeEGDg_Y0T79_uO-18" value="&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;save in Global State&lt;/div&gt;&lt;div&gt;Authenticated is True&lt;br&gt;&lt;/div&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-18" value="&lt;br&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;save in Global State&lt;/div&gt;&lt;div&gt;Authenticated is True&lt;br&gt;&lt;/div&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="48kHgXeEGDg_Y0T79_uO-20" value="&lt;div&gt;keep user in logout and signup mode&lt;/div&gt;&lt;div&gt;at top of the page&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
